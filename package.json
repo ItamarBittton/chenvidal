@@ -1,0 +1,26 @@
+{
+  "name": "chenvdial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "fs": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItamarBittton/chenvidal.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ItamarBittton/chenvidal/issues"
+  },
+  "homepage": "https://github.com/ItamarBittton/chenvidal#readme",
+  "description": ""
+}
